@@ -5,7 +5,14 @@ public class Calculation {
         for(int i=1;i<arr.length;i++){  
             if(max<arr[i])  
                 max=arr[i];  
-        }  
+        }
+        
+// code to test the code quality
+        for (int i=1;i<4;i++)
+        {
+        	System.out.println("Code Quality Test");  
+        }
+        
         return max;  
-    }  
+            }  
 }  
