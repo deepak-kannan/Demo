@@ -11,6 +11,7 @@ public class Calculation {
         for (int i=1;i<4;i++)
         {
         	System.out.println("Code Quality Test");  
+        	System.out.println("Code Quality Test2");
         }
         
         return max;  
